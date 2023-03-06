@@ -3,7 +3,7 @@ published: true
 status: complete
 date: 03/06/2023
 tags: 3d-printing
-description:
+description: Adapter to mount a Baseus 65W Battery on a dbrand Killswitch Steam Deck Case
 slug: killswitch-baseus-battery-mount
 ---
 
