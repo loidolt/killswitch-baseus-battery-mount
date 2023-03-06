@@ -9,7 +9,7 @@ slug: killswitch-baseus-battery-mount
 
 # Steam Deck Killswitch Baseus 65W Battery Mount
 
-This is a simple mounting adapter designed to mount a [Baseus 65W Battery](https://amzn.to/3F0fSgi) to the dbrand Steam Deck Killswitch case. The battery is fitted to the mount using a simple friction fit and the mount attaches to the Killswitch using dbrand's offical mount 3D Model (thanks dbrand!).
+This is a simple mounting adapter designed to mount a [Baseus 65W Battery](https://amzn.to/3F0fSgi) to the dbrand Steam Deck Killswitch case. The battery is fitted to the mount using a simple friction fit and the mount attaches to the Killswitch using dbrand's official mount 3D Model (thanks dbrand!).
 
 ## Table of Contents
 
