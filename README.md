@@ -1,53 +1,42 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
+status: complete
+date: 03/06/2023
+tags: 3d-printing
 description:
-slug: title-kebab-case
+slug: killswitch-baseus-battery-mount
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+# Steam Deck Killswitch Baseus 65W Battery Mount
+
+This is a simple mounting adapter designed to mount a [Baseus 65W Battery](https://amzn.to/3F0fSgi) to the dbrand Steam Deck Killswitch case. The battery is fitted to the mount using a simple friction fit and the mount attaches to the Killswitch using dbrand's offical mount 3D Model (thanks dbrand!).
 
 ## Table of Contents
-- [Title](#title)
+
+- [Steam Deck Killswitch Baseus 65W Battery Mount](#steam-deck-killswitch-baseus-65w-battery-mount)
   - [Table of Contents](#table-of-contents)
-  - [General Info](#general-info)
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Usage](#usage)
-  - [Notes](#notes)
   - [Sources](#sources)
 
-## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 ## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+
+- Fusion 360
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+Glue the Clip to the Mount using 2-part epoxy, and allow the epoxy to fully harden overnight.
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
 
-`write-your-code-here`
-
-## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+Slide the battery into the mount, attach the mount to the back of the killswitch, and relax now that your battery isn't about to die.
 
 ## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+
+[Baseus 65W Battery](https://amzn.to/3F0fSgi)
+
+All credit for the Killswitch case and the associated mounting system goes to DBrand. The mounting system is their proprietary design and is not to be used for commercial purposes outside of their discretion.
+
+[Printables.com Mount Model](https://www.printables.com/model/411297-project-killswitch-universal-mount)
+[dbrand Killswitch Product Page](https://dbrand.com/shop/grip/steam-deck-cases)
