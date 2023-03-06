@@ -34,9 +34,9 @@ Slide the battery into the mount, attach the mount to the back of the killswitch
 
 ## Sources
 
-[Baseus 65W Battery](https://amzn.to/3F0fSgi)
+- [Baseus 65W Battery](https://amzn.to/3F0fSgi)
 
 All credit for the Killswitch case and the associated mounting system goes to DBrand. The mounting system is their proprietary design and is not to be used for commercial purposes outside of their discretion.
 
-[Printables.com Mount Model](https://www.printables.com/model/411297-project-killswitch-universal-mount)
-[dbrand Killswitch Product Page](https://dbrand.com/shop/grip/steam-deck-cases)
+- [Printables.com Mount Model](https://www.printables.com/model/411297-project-killswitch-universal-mount)
+- [dbrand Killswitch Product Page](https://dbrand.com/shop/grip/steam-deck-cases)
